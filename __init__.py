@@ -1,1 +1,1 @@
-__all__ = [colab_photo]
+__all__ = ["colab_photo"]
